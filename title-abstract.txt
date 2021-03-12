@@ -1,5 +1,10 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+appSHNE: The Application of Representation Learning for Semantic-Associated Heterogeneous Networks in Creating Android App Embedding Layers
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Due to the open-source nature of the
+Android application development system, the threat of malicious software being uploaded to the Android
+marketplace and compromising the safety of millions of users is prevalent, and growing at an alarming rate. As
+time goes on, attackers develop new techniques for evading detection. Even the current state-of-the-art models
+often fall short when trying to represent complex relationships between different features of the code. In this
+paper, we will be exploring the implementation of both structured and unstructured app features in the creation of representative embedding layers. This multi-faceted approach, at scale, offers researchers greater insight into the inner working of the app with deployment that ranges from malware detection to similarity search and link prediction.
